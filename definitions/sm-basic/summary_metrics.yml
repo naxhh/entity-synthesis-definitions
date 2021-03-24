@@ -1,7 +1,7 @@
 derive:
   title: A derived metric
   unit: COUNT
-  derive: "@basicQuery * 100"
+  derive: "@basicQuery * 1000"
 
 tag:
   title: Tag metric
