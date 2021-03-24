@@ -1,4 +1,4 @@
-# Entity Synthesis Definitions 
+# Entity Synthesis Definitions 1
 
 This is a fork of the [official repo](https://github.com/newrelic-experimental/entity-synthesis-definitions)
 
