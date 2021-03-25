@@ -2,4 +2,5 @@ domain: DASHBOARD
 type: BASIC
 
 dashboardTemplates:
-  - template: dashboard.json
+  newRelic:
+    template: dashboard.json
