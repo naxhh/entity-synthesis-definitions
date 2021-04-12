@@ -3,7 +3,7 @@ type: TAGS
 
 synthesis:
   name: hi
-  identifier: property
+  identifier: property2
   conditions:
     - attribute: property
   tags:
