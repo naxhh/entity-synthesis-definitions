@@ -10,3 +10,4 @@ synthesis:
     property:
     anotherProperty:
       multiValue: false
+    anotherProperty: false
