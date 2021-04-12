@@ -5,7 +5,7 @@ synthesis:
   name: hi
   identifier: property2
   conditions:
-    - attribute: property
+    - attribute: property2
   tags:
     property:
     anotherProperty:
